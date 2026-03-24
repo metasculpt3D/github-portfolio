@@ -1,17 +1,21 @@
 <!-- ████████████████████████████████████████████████████████████ -->
 <!--                  METASCULPT STUDIOS — README.md            -->
-<!--         Built like a SaaS landing page. Lives on GitHub.   -->
+<!--    AI SaaS & intelligent digital products — aligned with site.   -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1c1c1c,100:0a0a0a&height=320&section=header&text=MetaSculpt%20Studios&fontSize=62&fontColor=F97316&animation=fadeIn&fontAlignY=42&stroke=F97316&strokeWidth=1&desc=AI%20%E2%80%A2%203D%20%E2%80%A2%20AR%20%E2%80%A2%20SaaS&descAlignY=65&descSize=18&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1c1c1c,100:0a0a0a&height=320&section=header&text=MetaSculpt%20Studios&fontSize=62&fontColor=F97316&animation=fadeIn&fontAlignY=42&stroke=F97316&strokeWidth=1&desc=AI%20Product%20Studio%20%E2%80%A2%20AI%20SaaS%20%26%20Intelligent%20Digital%20Products&descAlignY=65&descSize=16&descColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=24&duration=2800&pause=1200&color=F97316&center=true&vCenter=true&width=860&lines=We+Build+Intelligent+Digital+Experiences.;AI+Systems+%7C+3D+Design+%7C+SaaS+Platforms+%7C+AR.;From+Concept+to+Immersive+Reality.;Design+Meets+Intelligence+%E2%80%94+At+Scale." alt="MetaSculpt Studios Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=24&duration=2800&pause=1200&color=F97316&center=true&vCenter=true&width=920&lines=Sculpting+the+Future+with+AI+%26+Intelligent+Digital+Products.;AI+Platforms+%7C+SaaS+Products+%7C+Intelligent+Web+Apps.;AI-Powered+SaaS%2C+Intelligent+Automation%2C+High-Performance+Web.;Live+AI+Infrastructure+%E2%80%94+Real-Time+Inference+%26+Platform+Metrics." alt="MetaSculpt Studios Typing Banner" />
 </p>
 
 <p align="center">
+  <a href="https://metasculptstudios.com/">
+    <img src="https://img.shields.io/badge/Website-metasculptstudios.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=F97316" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/zil-patel-764a0b200/">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F97316" />
   </a>
@@ -37,11 +41,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750678-6a3f4e2c-3e5d-4b2f-b8f4-6cddcbb9b7f3.gif" width="38%" />
 
-**MetaSculpt Studios** is a next-generation digital innovation studio that sits at the intersection of **Artificial Intelligence**, **Immersive Design**, and **Scalable Technology**.
+**MetaSculpt Studios** is an **AI product studio** focused on **AI SaaS development** and **intelligent digital products**.
 
-We don't ship average. We ship experiences that feel like the future arrived early.
+We build **AI-powered SaaS platforms**, **intelligent automation systems**, and **high-performance web applications** — from real-time AI infrastructure and platform metrics to products that ship with velocity.
 
-Our work spans intelligent automation, 3D visual systems, immersive AR environments, and high-performance SaaS platforms — all unified by one principle:
+Our work also spans immersive 3D, AR, and spatial experiences when the product calls for it — unified by one principle:
 
 > **Every pixel should have a purpose. Every system should be intelligent.**
 
@@ -61,34 +65,34 @@ Our work spans intelligent automation, 3D visual systems, immersive AR environme
 <tr>
 <td width="25%" align="center">
 
-### 🎨
-**3D & Visual Systems**
+### ⚡
+**AI Platforms**
 
-High-end environments, glassmorphism UI, motion-driven interfaces, and futuristic design language.
-
-</td>
-<td width="25%" align="center">
-
-### 🤖
-**AI Systems**
-
-Intelligent automation, smart dashboards, predictive analytics, and user behavior insights.
+Live AI infrastructure in real time — insight layers, observability, and intelligent backends that stay ahead of the curve.
 
 </td>
 <td width="25%" align="center">
 
 ### 🌐
-**SaaS Platforms**
+**SaaS Products**
 
-Scalable B2B/B2C products, real-time architectures, API layers, and cloud-native infrastructure.
+AI SaaS built for velocity — real-time inference, platform metrics, and scalable B2B/B2C product surfaces.
 
 </td>
 <td width="25%" align="center">
 
-### 🕶️
-**AR / Immersive Tech**
+### 🧠
+**Intelligent Web Apps**
 
-Real-world AR overlays, interactive walkthroughs, and next-gen spatial interfaces.
+High-performance web applications with modern stacks, API layers, and cloud-native delivery.
+
+</td>
+<td width="25%" align="center">
+
+### 🎨
+**Immersive & Spatial**
+
+3D visual systems, AR overlays, and spatial interfaces when the experience demands more than the screen.
 
 </td>
 </tr>
@@ -161,9 +165,9 @@ Real-world AR overlays, interactive walkthroughs, and next-gen spatial interface
 
 ```
 🔭  Scaling SiteIQ →  AI analytics layer + real-time recommendation engine
-🧪  Experimenting  →  Generative 3D UI systems with AI-driven composition
-📐  Designing      →  AR spatial UI framework for real estate clients
-⚡  Exploring      →  Edge-first SaaS infrastructure patterns
+⚡  Platform       →  Live AI infrastructure + inference & metrics at SaaS velocity
+🧪  Experimenting  →  Generative 3D UI + AI-driven composition
+📐  Designing      →  AR spatial UI for real estate & immersive clients
 ```
 
 <br/>
@@ -278,10 +282,10 @@ We partner with builders who want more than the average agency delivers:
 
 | Partner Type | What We Help With |
 |---|---|
-| 🚀 **Startups** | From 0→1 — MVP architecture, design systems, AI integrations |
-| 🎨 **Agencies** | Creative overflow — 3D, AR, frontend, motion design |
-| 🤖 **Tech Teams** | AI layer implementation, SaaS infra, real-time features |
-| 💻 **Founders** | Product strategy, UX direction, go-to-market tech |
+| 🚀 **Startups** | From 0→1 — AI SaaS MVPs, automation, intelligent product surfaces |
+| 🎨 **Agencies** | Creative & technical overflow — web apps, 3D, AR, motion |
+| 🤖 **Tech Teams** | AI platforms, SaaS infra, real-time inference & metrics |
+| 💻 **Founders** | Product strategy, UX, and go-to-market for intelligent products |
 
 <br/>
 
@@ -296,18 +300,26 @@ We partner with builders who want more than the average agency delivers:
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&duration=3000&pause=2000&color=F97316&center=true&vCenter=true&width=700&lines=Have+an+idea%3F+Let's+talk.;Need+a+team%3F+We're+ready.;Want+to+build+the+future%3F+So+do+we." />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=28&duration=3000&pause=2000&color=F97316&center=true&vCenter=true&width=760&lines=Start+your+project+%E2%80%94+we+build+intelligent+products.;Book+a+consultation+on+metasculptstudios.com.;AI+SaaS%2C+automation%2C+and+web+that+ships+at+velocity." />
 </p>
 
 <br/>
 
 <p align="center">
+  <a href="https://metasculptstudios.com/">
+    <img src="https://img.shields.io/badge/→%20Start%20Your%20Project-F97316?style=for-the-badge&labelColor=0a0a0a&color=F97316&logoColor=white" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://metasculptstudios.com/">
+    <img src="https://img.shields.io/badge/→%20Book%20a%20Consultation-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=1a1a1a&logoColor=F97316" height="40"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:hello@metasculpt.studio">
-    <img src="https://img.shields.io/badge/→%20Start%20a%20Project-F97316?style=for-the-badge&labelColor=0a0a0a&color=F97316&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/→%20Email%20Direct-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=1a1a1a&logoColor=F97316" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/zil-patel-764a0b200/">
-    <img src="https://img.shields.io/badge/→%20Connect%20on%20LinkedIn-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=1a1a1a&logoColor=F97316" height="40"/>
+    <img src="https://img.shields.io/badge/→%20LinkedIn-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=1a1a1a&logoColor=F97316" height="40"/>
   </a>
 </p>
 
@@ -316,7 +328,7 @@ We partner with builders who want more than the average agency delivers:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=100&section=footer&text=MetaSculpt%20Studios%20%C2%A9%202025&fontSize=14&fontColor=F97316&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=100&section=footer&text=MetaSculpt%20Studios%20%C2%A9%202026&fontSize=14&fontColor=F97316&fontAlignY=65" />
 </p>
 
 <p align="center">
